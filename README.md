@@ -15,7 +15,7 @@
 <h3 align="left">Education</h3>
 <p align="left">Software Engineering Undergraduate at Universiti Teknologi Malaysia<br></p>
 <h3 align="left">Position</h3>
-<p align="left">Member of Group 3, SECP1513 Technology & Information System<br></p>
+<p align="left">Member of Group 3, SECP1513 Technology & Information System - Section 5<br></p>
 <h3 align="left">Skills</h3>
 
 ###
